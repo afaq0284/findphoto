@@ -5,8 +5,8 @@ import shutil
 import pickle
 
 # Paths to folders and files
-main_folder = "imgs"  # Folder containing the images
-encodings_file = "encodings.pkl"  # File where the pre-computed encodings are stored
+main_folder = "main_photos"  # Folder containing the images
+encodings_file = "main_encodings.pkl"  # File where the pre-computed encodings are stored
 
 # Create encodings if needed
 def save_encodings():
