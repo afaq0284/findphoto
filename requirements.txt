@@ -1,1 +1,3 @@
-face-recognition
+cmake>=3.25.2
+dlib==19.17.0
+face-recognition==1.3.0
